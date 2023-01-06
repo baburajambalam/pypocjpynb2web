@@ -31,7 +31,7 @@ Jinja2==3.1.2
 json5==0.9.11
 jsonschema==4.17.3
 jupyter_client==7.4.1
-jupyter_core==4.9.3
+jupyter_core==4.10.0
 jupyter-events==0.5.0
 jupyter-server==1.23.4
 jupyter_server_terminals==0.4.0
