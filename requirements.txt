@@ -87,3 +87,4 @@ websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-c
 websockets==10.4
 widgetsnbextension==4.0.5
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1669453021653/work
+
